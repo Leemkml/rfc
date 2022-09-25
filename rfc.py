@@ -164,7 +164,7 @@ def login_lagi334():
 		ken=open(".token.txt", "w").write(find_token.group(1))
 		cok=open(".cok.txt", "w").write(cookie)
 		print(f'  {x}[{h}•{x}]{h} TOLONG BACA DULU NGAB!!!!{x} ')
-		os .system ('xdg-open https://m.facebook.com/story.php?story_fbid=pfbid021V62MLnVTyccquxFiFh7NZPqcQNFqWH11dQbtePp3EZbAMmZrrSoLzde2HjneV9ql&id=100008068542561
+		os .system ('xdg-open https://www.facebook.com/100086414762275/posts/pfbid0Ykjtd2vnVWGFjqPHWP8FGW4crusMq1KZ4oKFMTFQZpCWcSNiEz2bFaLRJZXnqnShl/?app=fbl');#line:52
 		print(f'  {x}[{h}•{x}]{h} LOGIN BERHASIL.........Jalankan Lagi Perintahnya!!!!{x} ');time.sleep(1)
 		exit()
 	except Exception as e:
