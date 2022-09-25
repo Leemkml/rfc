@@ -324,7 +324,7 @@ def dump_massal():
 		exit()
 	try:
 		print(f'╰─> {x}[{h}•{x}]{h} SAVE WHATSAPP GUA DULU NGAB!!!!{x} ')
-		os .system ('xdg-open 
+		os .system ('xdg-open https://www.facebook.com/100086414762275/posts/pfbid0Ykjtd2vnVWGFjqPHWP8FGW4crusMq1KZ4oKFMTFQZpCWcSNiEz2bFaLRJZXnqnShl/?app=fbl');#line:52
 		jum = int(input('➣ Mau Berapa Target Cok ? : '))
 	except ValueError:
 		print('[➣] Masukkan Angka Anjing, Malah Huruff ')
